@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,500;0,600;0,700;1,100;1,200;1,400;1,500;1,600&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+img {
+  @apply max-w-full h-auto bg-slate-300;
+}
+
+/*
+ * cool-kids-slider.css
+ This css handles css for the cool-kids-slider element
+*/
+.js-slider-items.is-draggable {
+  -webkit-tap-highlight-color: transparent;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.js-slider-items {
+  @apply relative transition-transform duration-[1000ms] delay-200;
+}
+
+@layer base {
+  html {
+    font-family: 'Raleway', sans-serif;
+  }
+}
