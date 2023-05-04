@@ -18,10 +18,13 @@ const About = () => {
 
         <div className=' p-5 md:p-10'>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, enim labore dolorum rem odit commodi dolores corrupti eos, facilis praesentium, tenetur temporibus aut nisi nesciunt. Aperiam minima officia optio explicabo quod hic sed cumque. Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia laborum sint consequuntur cupiditate. Architecto, ex voluptates sit magni dolorem labore repellat maiores exercitationem incidunt, delectus repellendus! Magni adipisci sapiente iusto velit unde reprehenderit quam neque earum in. Quaerat, nemo rem? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cumque distinctio quis voluptates reiciendis exercitationem qui, dignissimos beatae alias quam veritatis, debitis voluptatem deserunt! Quisquam nobis quas nostrum, assumenda tempore, voluptatem officia quidem impedit, blanditiis dolor aspernatur nemo id minus optio?
+            Currently pursuing B.Tech in Computer Science with Specialization in Artificial Intelligence and Machine Leraning from VIT Bhopal University, I am well-equipped to take on complex coding challenges and deliver robust solutions.
+            <br/><br/>
+            In addition to my development skills, I am also deeply interested in data science and have completed several online courses in this field. I am adept at working with tools like Python and SQL, and enjoy using data to uncover insights and drive informed business decisions.
+            <br/><br/>
+            As I continue to grow in my career, I am seeking opportunities to further develop my skills and make a meaningful impact. I am open to new challenges and look forward to connecting with like-minded professionals in the tech industry.
           </p>
         </div>
-
       </div>
 
     </div>

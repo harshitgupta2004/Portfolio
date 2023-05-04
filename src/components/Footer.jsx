@@ -38,7 +38,7 @@ const Footer = () => {
                             </path>
                         </svg>
                     </a>
-                    <a href="https://www.linkedin.com/in/harshit-gupta-4663831bb/" target="_blank"
+                    <a href="https://www.linkedin.com/in/harshit-gupta20/" target="_blank"
                         rel="noreferrer" class="mr-6 text-gray-600 hover:scale-125 duration-300">
                         <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="linkedin-in"
                             class="w-3.5" role="img" xmlns="http://www.w3.org/2000/svg"

@@ -27,7 +27,7 @@ const Contact = () => {
                                     Wanna get in touch with me? Don't hesitate, just fill out the form or
                                     mail at the provided email address.
                                 </p>
-                     
+
                                 <div class="flex mb-8 max-w-[370px] w-full">
                                     <div
                                         class="

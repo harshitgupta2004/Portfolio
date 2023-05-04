@@ -1,5 +1,5 @@
 import React from 'react'
-import HeroImage from "../assets/heroImage.png";
+import HeroImage from "../assets/Portfolio.jpg";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import { AiOutlineDownload } from "react-icons/ai";
 
@@ -15,7 +15,7 @@ const Home = () => {
                     </div>
                     <div className="detail">
                         <p className='inline-block w-80 text-center hover:scale-105 duration-300'>
-                            Photographer and Developer 
+                            Developer | Data Analyst | Photographer
                         </p>
                     </div>
                     <div className="button  ">
@@ -51,7 +51,9 @@ const Home = () => {
                 </div>
 
                 <div className="right">
-                    <img className='w-9/12 md:w-8/12 hover:scale-105 hover:shadow-xl hover:shadow-black duration-300 rounded-2xl bg-white mx-auto' src={HeroImage} alt="" />
+                    <div id="imgbox" className='w-8/12 md:w-7/12 mx-auto'>
+                        <img className='hover:scale-105 hover:shadow-xl hover:shadow-black duration-300 rounded-2xl bg-white' style={{ objectFit: "cover" }} src={HeroImage} alt="" />
+                    </div>
                 </div>
 
             </div>
