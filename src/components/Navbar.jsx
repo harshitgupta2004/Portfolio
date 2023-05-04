@@ -43,14 +43,16 @@ const Navbar = () => {
 
 
     return (
+        <div className='m-2 p-2 z-20'>
 
-        <div className=' m-2 p-2 z-20'>
-
-            <div className='flex flex-row space-x-8 justify-between '>
-
-
-                <div className="logo text-xl sm:text-2xl">
-                    Harshit
+            <div className='flex flex-row space-x-8 justify-between'>
+                <div class="navheader logo text-xl sm:text-2xl">
+                    <a class="namebrand" href="/">
+                        <span>HG</span>
+                        <span class="name">
+                            Harshit Gupta
+                        </span>
+                    </a>
                 </div>
 
 
@@ -108,7 +110,7 @@ const Navbar = () => {
 
             </div>
 
-        </div>
+        </div >
     )
 }
 
